@@ -1,4 +1,32 @@
-Docker: Utilização prática no cenário de Microsserviços
-Denilson Bonatti, Instrutor - Digital Innovation One
+# Docker: Utilização Prática no Cenário de Microsserviços
 
-Muito se tem falado de containers e consequentemente do Docker no ambiente de desenvolvimento. Mas qual a real função de um container no cenários de microsserviços? Qual a real função e quais exemplos práticos podem ser aplicados no dia a dia? Essas são algumas das questões que serão abordadas de forma prática pelo Expert Instructor Denilson Bonatti nesta Live Coding. IMPORTANTE: Agora nossas Live Codings acontecerão no canal oficial da dio._ no YouTube. Então, já corre lá e ative o lembrete! Pré-requisitos: Conhecimentos básicos em Linux, Docker e AWS.
+## 📌 Descrição do Projeto
+
+Este projeto tem como objetivo demonstrar a utilização prática do **Docker** e do **Docker Compose** no contexto de microsserviços, conforme proposto no desafio acadêmico.  
+A aplicação utiliza o **Nginx** como servidor web, executado em um contêiner Docker, com mapeamento de portas e volumes para execução local.
+
+O foco do projeto está na **orquestração de contêineres**, na **padronização do ambiente de execução** e na **facilidade de deploy**, e não no desenvolvimento de uma aplicação complexa.
+
+---
+
+## 🎯 Objetivos
+
+- Compreender o funcionamento do Docker e Docker Compose  
+- Executar uma aplicação containerizada localmente  
+- Aplicar boas práticas de organização e configuração de serviços  
+- Simular um cenário básico de microsserviço com servidor web  
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+- Docker
+- Docker Compose
+- Nginx
+- PowerShell (Windows)
+- Git e GitHub
+
+---
+
+## 📂 Estrutura do Projeto
+
