@@ -30,3 +30,26 @@ O foco do projeto está na **orquestração de contêineres**, na **padronizaç�
 
 ## 📂 Estrutura do Projeto
 
+toshiro-shibakita/
+│
+├── docker-compose.yml
+├── index.html
+└── README.md
+
+---
+
+## 🔁 Fork do Repositório
+
+1. Acesse o repositório original do projeto no GitHub  
+2. Clique em **Fork** (canto superior direito)  
+3. O repositório será copiado para a sua conta pessoal  
+
+---
+
+## ⬇️ Clonando o Repositório
+
+No terminal (PowerShell):
+
+```bash
+git clone https://github.com/SEU-USUARIO/toshiro-shibakita.git
+cd toshiro-shibakita
